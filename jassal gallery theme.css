@@ -1,0 +1,57 @@
+div {
+	border: 3px solid;
+	margin-bottom: 100px;
+	margin-left: -150px;
+	margin-right: 220px;
+	border-radius: 15px;
+	border-color: #BC9974;
+	border-bottom-color: #DDB58B;
+	border-top-color: #DDB58B;
+	background-color: #FBFBFB;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 35pt;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+
+
+h2 {
+	text-align: center;
+	font-size: 23pt;
+	margin-left: 10px;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+
+body {
+	margin-top: 50px;
+	margin-left: 500px;
+	background-image: url("white fabric bg.jpg");
+	background-size: 2750pt;
+	background-repeat: no-repeat;
+}
+
+
+p {
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	font-family: 'Cormorant', serif;
+	font-size: 20px;
+}
+
+
+img {
+	margin-left: 120px;
+	margin-bottom: 40px;
+	margin-right: 150px;
+	margin-top: 10px;
+	height: 315px;
+	width: 480px;
+}

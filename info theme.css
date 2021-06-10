@@ -1,0 +1,79 @@
+div {
+	border: 3px solid;
+	margin-bottom: 100px;
+	border: center;
+	border-radius: 10px;
+	border-color: #BC9974;
+	border-bottom-color: #DDB58B;
+	border-top-color: #DDB58B;
+	background-color: #FBFBFB;
+}
+
+
+
+body {
+	margin-top: 50px;
+	margin-left: 500px;
+	margin-right: 400px;
+	background-image: url("mani jassal.png");
+	background-size: 1250pt;
+	background-repeat: no-repeat;
+}
+
+
+
+h1 {
+	text-align: center;
+	font-size: 30pt;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+
+h2 {
+	text-align: center;
+	font-size: 23pt;
+	margin-left: 10px;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+
+p {
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	font-family: 'Cormorant', serif;
+	font-size: 17px;
+}
+	
+	
+	
+table {
+	background: white;
+	width: 100%;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+  border-bottom: 1px solid;
+}
+
+
+th {
+	background-color: #D3A572;
+}
+
+
+td {
+	border: 1px solid black;
+}
+
+
+img {
+	margin-left: 60px;
+	margin-bottom: 40px;
+	height: 300px;
+	width: 400px;
+}
